@@ -1,0 +1,4 @@
+baseURL = "https://wiki.bazadani.com/"
+languageCode = "en-us"
+title = "Random Stuff Wiki"
+theme = "primitive"
