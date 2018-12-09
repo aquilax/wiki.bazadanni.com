@@ -1,4 +1,9 @@
-baseURL = "https://wiki.bazadani.com/"
+baseURL = "https://wiki.bazadanni.com/"
 languageCode = "en-us"
 title = "Random Stuff Wiki"
 theme = "primitive"
+googleAnalytics = "UA-59829770-23"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
