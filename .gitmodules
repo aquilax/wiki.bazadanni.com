@@ -1,0 +1,3 @@
+[submodule "themes/primitive"]
+	path = themes/primitive
+	url = https://github.com/aquilax/primitive.git
