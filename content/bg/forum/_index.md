@@ -88,9 +88,7 @@ route: "bg-forum"
 * [tialoto.bg](https://www.tialoto.bg/forum/)
 * [bb team](https://www.bb-team.org/forums)
 * [СЕГА](https://www.segabg.com/forum)
-
 * [Форум Наука](https://www.forumnauka.bg/)
-
 * [Форум - Софтуерен университет](https://softuni.bg/forum)
 * [Българският Форум за Въздушно Оръжие](https://forum.airguns.bg/)
 * [Microinvest Форум](https://forum.microinvest.net/)
