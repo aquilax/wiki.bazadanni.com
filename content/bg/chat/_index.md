@@ -22,7 +22,7 @@ route: "bg-chat"
 
 ## Riot.im
 
-[BULGARIA](https://matrix.to/#/!fBmMosnGePKkTIJsIS:matrix.org?via=matrix.org)
+* [BULGARIA](https://matrix.to/#/!fBmMosnGePKkTIJsIS:matrix.org?via=matrix.org)
 
 ## Discord
 
