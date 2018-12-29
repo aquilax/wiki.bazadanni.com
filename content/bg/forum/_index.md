@@ -73,6 +73,7 @@ route: "bg-forum"
 * [naRiba.com - Форум](https://www.nariba.com/forum/)
 * [Кактус БГ Форум](https://cactus-bg.com/forum/)
 * [Форум Направи Сам](https://forum.napravisam.bg/)
+* [Сандъците - форум за стара електроника](https://www.sandacite.com/forum/)
 
 ## Рецепти
 
@@ -109,3 +110,9 @@ route: "bg-forum"
 * [Българският форум за часовници](https://strelki.info/)
 * [Българският форум за музиканти](http://forum.muzikant.org/)
 * [Звездно общество - астрономически форум](https://forum.starrydreams.com/)
+* [Ezine.bg - форум](https://ezine.bg/forum/)
+* [Фрамар - Форум](https://forum.framar.bg/)
+* [Първият Homebrew сайт и форум в България](http://forum.beer-bg.com/)
+* [Форуми на УНСС](http://forum.unwe.bg/)
+* [Истинският форум за сателитна телевизия](http://www.sattvforum.com/)
+* [Форум imoti.net](http://forum.imoti.net/)
