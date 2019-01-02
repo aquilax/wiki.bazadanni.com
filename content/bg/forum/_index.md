@@ -116,3 +116,4 @@ route: "bg-forum"
 * [Форуми на УНСС](http://forum.unwe.bg/)
 * [Истинският форум за сателитна телевизия](http://www.sattvforum.com/)
 * [Форум imoti.net](http://forum.imoti.net/)
+* [Форум Книги игри](https://knigi-igri.bg/forums)
