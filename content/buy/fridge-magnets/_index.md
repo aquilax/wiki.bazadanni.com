@@ -4,6 +4,8 @@ date: 2019-01-06T04:58:26+01:00
 route: "buy-fridge-magnets"
 ---
 
+A list of places you can find collectable fridge magnets
+
 # Sweden
 
 ## Stockholm
