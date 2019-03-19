@@ -4,7 +4,7 @@ date: 2019-03-18T05:22:26+01:00
 route: "data-hoarder-handbook"
 ---
 
-# Data Hoarder's Handbook
+# Data hoarding tips and tricks
 
 ## Tools
 
@@ -19,6 +19,10 @@ route: "data-hoarder-handbook"
 #### rsync
 
 #### opendirindexer
+
+#### OpenDirectoryDownloader
+
+https://github.com/KoalaBear84/OpenDirectoryDownloader
 
 #### lftp
 
