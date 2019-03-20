@@ -24,9 +24,9 @@ route: "data-hoarder-handbook"
 
 OpenDirectoryDownloader is the tool used to give statistics in the [opendirectories subreddit](https://www.reddit.com/r/opendirectories/). The tool was officially open sourced [here](https://www.reddit.com/r/opendirectories/comments/azdgc2/open_directory_indexer_open_sourcedreleased/) and can be found on GitHub. Supports indexing of HTTP/FTP and GDrive resources.
 
-Repository: https://github.com/KoalaBear84/OpenDirectoryDownloader
-Language: C#, .NET Core
-License: GPL3
+* Repository: https://github.com/KoalaBear84/OpenDirectoryDownloader
+* Language: C#, .NET Core
+* License: GPL3
 
 #### lftp
 
