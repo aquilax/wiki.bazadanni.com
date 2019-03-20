@@ -22,7 +22,11 @@ route: "data-hoarder-handbook"
 
 #### OpenDirectoryDownloader
 
-https://github.com/KoalaBear84/OpenDirectoryDownloader
+OpenDirectoryDownloader is the tool used to give statistics in the [opendirectories subreddit](https://www.reddit.com/r/opendirectories/). The tool was officially open sourced [here](https://www.reddit.com/r/opendirectories/comments/azdgc2/open_directory_indexer_open_sourcedreleased/) and can be found on GitHub. Supports indexing of HTTP/FTP and GDrive resources.
+
+Repository: https://github.com/KoalaBear84/OpenDirectoryDownloader
+Language: C#, .NET Core
+License: GPL3
 
 #### lftp
 
@@ -44,11 +48,16 @@ https://github.com/KoalaBear84/OpenDirectoryDownloader
 
 #### Fusker
 
+From [Wikipedia](https://en.wikipedia.org/wiki/Fusker):
+
+> Fusker is a type of website or utility that extracts images from a web page, typically from free hosted galleries.
+
+
 ## Communities
 
-#### DataHoarder subreddit
-
-https://www.reddit.com/r/DataHoarder/
+* [The Eye](https://the-eye.eu/)
+* [DataHoarder subreddit](https://www.reddit.com/r/DataHoarder/)
+* [Opendirectories subreddit](https://www.reddit.com/r/opendirectories/)
 
 ## Hardware
 
