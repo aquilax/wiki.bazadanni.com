@@ -34,6 +34,14 @@ OpenDirectoryDownloader is the tool used to give statistics in the [opendirector
 
 ### Text processing
 
+#### urlcat
+
+`urlcat` is a command line utility, allowing you to extract parts of URLs.
+
+* Repository: https://github.com/aquilax/urlcat
+* Language: Go
+* License: MIT
+
 #### grep
 
 #### wc
@@ -44,6 +52,21 @@ OpenDirectoryDownloader is the tool used to give statistics in the [opendirector
 
 #### sed
 
+### Other
+
+##### img2ascii
+
+`img2ascii` is tool that allows you to render images in the terminal.
+Can be combined with inotify to stream image downloads in a terminal screen like that:
+
+```
+inotifywait -r -m /download_dir | while read a b file; do [[ $b == *CREATE* ]] && echo $a$file && sleep 1 && img2ascii -converter=24bit2x -width=80 "$a$file"; done
+```
+
+* Repository: https://github.com/aquilax/img2ascii
+* Language: Go
+* License: MIT
+
 ### Online tools
 
 #### Fusker
@@ -51,7 +74,6 @@ OpenDirectoryDownloader is the tool used to give statistics in the [opendirector
 From [Wikipedia](https://en.wikipedia.org/wiki/Fusker):
 
 > Fusker is a type of website or utility that extracts images from a web page, typically from free hosted galleries.
-
 
 ## Communities
 
