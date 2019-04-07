@@ -6,31 +6,31 @@ route: "quantified-self"
 
 # Useful quantified self tools
 
-## Money
+## Money 💰
 
 ### Accounting
 
 [Plain Text Accounting](https://plaintextaccounting.org/) does a great job of outlining the tools available for handing accounting through plain text files. I personally have been using [ledger](https://www.ledger-cli.org/) for the last five years and am quite happy with it.
 
-## Nutrition
+## Nutrition 🍳
 
 ### Calorie counting
 
 [hranoprovod-cli](https://github.com/aquilax/hranoprovod-cli/) is a tool, inspired by Ledger, which I am using since `2011/07/17`. It uses two text files, one with "recipes" and one with food log. Given that those are properly maintained, one can generate different reports for random period with console and optional cvs output.
 
-## Health
+## Health 🏃
 
 ### Merki
 
 [merki](https://github.com/aquilax/merki) is small command-line tool I wrote to keep track of health measurements. It's very simple to use and keeps all the data in tab separated timestamped text file.
 
-## Life
+## Life 💚
 
 ### Biograph
 
 [Biograh](https://github.com/aquilax/biograph) is inventory tool for one's life. It's similar to [devotees/biograph](https://github.com/devotees/biograph) but with text output. I use it to track places I've lived, travels I've done, stuff I've bought a.s.o.
 
-## General
+## General 🎖
 
 ### Dashboard
 
