@@ -2,9 +2,10 @@
 title: "Quantified self tools"
 date: 2019-04-06T05:22:26+01:00
 route: "quantified-self"
+autoTitle: false
 ---
 
-# Useful quantified self tools
+# Quantified self tools
 
 ## Money 💰
 
