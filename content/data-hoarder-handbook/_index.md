@@ -13,6 +13,59 @@ autoTitle: false
 
 #### curl
 
+[Curl](https://curl.haxx.se/) is widely used tool for making network requests.
+
+Use cases:
+
+##### Debug request:
+
+```
+$ curl -v -s http://www.example.com > /dev/null
+* Rebuilt URL to: http://www.example.com/
+*   Trying 93.184.216.34...
+* TCP_NODELAY set
+* Connected to www.example.com (93.184.216.34) port 80 (#0)
+> GET / HTTP/1.1
+> Host: www.example.com
+> User-Agent: curl/7.58.0
+> Accept: */*
+>
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Cache-Control: max-age=604800
+< Content-Type: text/html; charset=UTF-8
+< Date: Sat, 13 Apr 2019 03:36:14 GMT
+< Etag: "1541025663+gzip"
+< Expires: Sat, 20 Apr 2019 03:36:14 GMT
+< Last-Modified: Fri, 09 Aug 2013 23:54:35 GMT
+< Server: ECS (dcb/7EC9)
+< Vary: Accept-Encoding
+< X-Cache: HIT
+< Content-Length: 1270
+<
+{ [1270 bytes data]
+* Connection #0 to host www.example.com left intact
+```
+
+##### Check if URL exists
+
+```
+$ curl -I http://www.example.com
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 13 Apr 2019 03:36:55 GMT
+Etag: "1541025663"
+Expires: Sat, 20 Apr 2019 03:36:55 GMT
+Last-Modified: Fri, 09 Aug 2013 23:54:35 GMT
+Server: ECS (dcb/7F3B)
+X-Cache: HIT
+Content-Length: 606
+
+```
+
 #### wget
 
 #### httrack
