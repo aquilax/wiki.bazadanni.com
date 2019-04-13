@@ -2,6 +2,7 @@
 title: "Български форуми"
 date: 2018-12-29T04:58:26+01:00
 route: "bg-forum"
+autoTitle: false
 ---
 
 # Български форуми

@@ -2,9 +2,10 @@
 title: "Data Hoarder's Handbook"
 date: 2019-03-18T05:22:26+01:00
 route: "data-hoarder-handbook"
+autoTitle: false
 ---
 
-# Data hoarding tips and tricks
+# Data Hoarder's Handbook
 
 ## Tools
 
