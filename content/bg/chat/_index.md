@@ -27,4 +27,4 @@ route: "bg-chat"
 ## Discord
 
 * [Your local christmas tree](https://discordapp.com/invite/NQkd2FC)
-
+* [IT Bulgaria](https://discord.me/ITbulgaria)

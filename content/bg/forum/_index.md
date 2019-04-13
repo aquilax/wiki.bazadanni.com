@@ -8,6 +8,7 @@ route: "bg-forum"
 
 ## Общи
 
+* [r/bulgaria](https://www.reddit.com/r/bulgaria)
 * [All.bg форуми](http://forum.all.bg/)
 * [BG-Mamma](http://www.bg-mamma.com/)
 * [Форум.Rozali.coм](https://forum.rozali.com/)
