@@ -7,19 +7,19 @@ autoTitle: false
 
 # Financial independence
 
-## Tools
+## Tools 🔧
 
 ### General tools
 
 * [Numbeo](https://www.numbeo.com/cost-of-living/) [en] - Cost of living around the world
 
-### Sweden
+### Sweden 🇸🇪
 
 * [Wage calculator](https://statsskuld.se/en-sv/jobs/berakna-nettolon) [en] - Net salary calculator (taxation in Sweden depends on the region you live in)
 
-## Investment
+## Investment 💰
 
-### Sweden
+### Sweden 🇸🇪
 
 #### Investment Funds
 
@@ -42,18 +42,18 @@ autoTitle: false
 
 * [Funded by me](https://www.fundedbyme.com/en/) [en][sv]
 
-### Bulgaria
+### Bulgaria 🇧🇬
 
 #### Peer 2 peer
 
 * [Klear](https://www.klearlending.com/en) [en][bg]
 
-## Real Estate
+## Real Estate 🏘
 
-### Bulgaria
+### Bulgaria 🇧🇬
 
 * [Imot.bg](https://www.imot.bg/) [bg] - buy/rent real estate in Bulgaria
 
-### Sweden
+### Sweden 🇸🇪
 
 * [Hemnet](https://www.hemnet.se/) [sv] - buy real estate in Sweden
