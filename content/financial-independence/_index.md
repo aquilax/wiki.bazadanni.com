@@ -48,7 +48,7 @@ autoTitle: false
 
 * [Klear](https://www.klearlending.com/en) [en][bg]
 
-## Real Estate 🏘
+## Real Estate 🏘️
 
 ### Bulgaria 🇧🇬
 
