@@ -74,6 +74,18 @@ Content-Length: 606
 
 #### opendirindexer
 
+[opendirindexer](https://github.com/aquilax/opendirindexer) is a command line tool for indexing open directories. The tool crawls the server and returns list of URLs.
+
+Example usage:
+
+```
+$ opendirindexer http://localhost:8000
+http://localhost:8000/4.txt
+http://localhost:8000/test1/1.txt
+http://localhost:8000/test2/3.txt
+http://localhost:8000/test1/test1.1/1.txt
+```
+
 #### OpenDirectoryDownloader
 
 OpenDirectoryDownloader is the tool used to give statistics in the [opendirectories subreddit](https://www.reddit.com/r/opendirectories/). The tool was officially open sourced [here](https://www.reddit.com/r/opendirectories/comments/azdgc2/open_directory_indexer_open_sourcedreleased/) and can be found on GitHub. Supports indexing of HTTP/FTP and GDrive resources.
