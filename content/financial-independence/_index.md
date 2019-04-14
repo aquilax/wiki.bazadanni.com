@@ -52,8 +52,8 @@ autoTitle: false
 
 ### Bulgaria
 
-* [Imot.bg](https://www.imot.bg/) [bg] - purchase/rent real estate in Bulgaria
+* [Imot.bg](https://www.imot.bg/) [bg] - buy/rent real estate in Bulgaria
 
 ### Sweden
 
-* [Hemnet](https://www.hemnet.se/) [sv] - purchase real estate in Sweden
+* [Hemnet](https://www.hemnet.se/) [sv] - buy real estate in Sweden
