@@ -1,6 +1,6 @@
 ---
 title: "Learn Swedish"
-date: 2019-04-15T03:58:26+01:00
+date: 2019-04-15T02:58:26+01:00
 route: "learn-swedish"
 ---
 
@@ -25,6 +25,6 @@ route: "learn-swedish"
 
 ## Swedish Music
 
-* [Swedish Music for Learning Swedish](https://open.spotify.com/user/11101302890/playlist/3BeBGfOciz2pHhmMYGF7Qq?si=rihMdVlBQ7qgAnfFuZXHTw)
-* [På Svenska](https://open.spotify.com/user/lundgren8/playlist/1RmG3XnjoJjfH9sQ4oqj8l?si=CQgIVvqoQ9WVxCkdN5ScOA)
-* [Svenska Klassiker](https://open.spotify.com/user/sonymusicentertainment/playlist/26uqIdWqPakRB3c6Lw8I7C?si=Lo2qURh2RtGymsOG2oSdUw)
+* [Swedish Music for Learning Swedish](https://open.spotify.com/user/11101302890/playlist/3BeBGfOciz2pHhmMYGF7Qq?si=rihMdVlBQ7qgAnfFuZXHTw) [Spotify]
+* [På Svenska](https://open.spotify.com/user/lundgren8/playlist/1RmG3XnjoJjfH9sQ4oqj8l?si=CQgIVvqoQ9WVxCkdN5ScOA) [Spotify]
+* [Svenska Klassiker](https://open.spotify.com/user/sonymusicentertainment/playlist/26uqIdWqPakRB3c6Lw8I7C?si=Lo2qURh2RtGymsOG2oSdUw) [Spotify]
