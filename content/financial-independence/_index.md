@@ -12,6 +12,7 @@ autoTitle: false
 ### General tools
 
 * [Numbeo](https://www.numbeo.com/cost-of-living/) [en] - Cost of living around the world
+* [Our World in Data](https://ourworldindata.org/) [en] - Statistical data about the world we live in
 
 ### Sweden 🇸🇪
 
