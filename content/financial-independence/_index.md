@@ -56,14 +56,14 @@ autoTitle: false
 
 #### Real Estate Lending
 
-* [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
+* [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) [en] Property backed loans
 
 ### Spain 🇪🇸
 
 #### Real Estate Lending
 
-* [My Blue Bricks](https://mybluebricks.com/)
-* [Housers](https://www.housers.com/en)
+* [My Blue Bricks](https://mybluebricks.com/) [en]
+* [Housers](https://www.housers.com/en) [en]
 
 
 
