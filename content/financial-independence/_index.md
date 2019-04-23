@@ -18,6 +18,9 @@ autoTitle: false
 
 * [Wage calculator](https://statsskuld.se/en-sv/jobs/berakna-nettolon) [en] - Net salary calculator (taxation in Sweden depends on the region you live in)
 
+
+
+
 ## Investment 💰
 
 ### Sweden 🇸🇪
@@ -49,6 +52,22 @@ autoTitle: false
 
 * [Klear](https://www.klearlending.com/en) [en][bg]
 
+### Estonia 🇪🇪
+
+#### Real Estate Lending
+
+* EstateGuru (https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
+
+### Spain 🇪🇸
+
+#### Real Estate Lending
+
+* [My Blue Bricks](https://mybluebricks.com/)
+* [Housers](https://www.housers.com/en)
+
+
+
+
 ## Real Estate 🏘️
 
 ### Bulgaria 🇧🇬
@@ -58,12 +77,3 @@ autoTitle: false
 ### Sweden 🇸🇪
 
 * [Hemnet](https://www.hemnet.se/) [sv] - buy real estate in Sweden
-
-### Estonia 🇪🇪
-
-* (https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
-
-### Spain 🇪🇸
-
-* [My Blue Bricks](https://mybluebricks.com/)
-* [Housers](https://www.housers.com/en)
