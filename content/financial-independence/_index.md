@@ -58,3 +58,12 @@ autoTitle: false
 ### Sweden 🇸🇪
 
 * [Hemnet](https://www.hemnet.se/) [sv] - buy real estate in Sweden
+
+### Estonia 🇪🇪
+
+* (https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
+
+### Spain 🇪🇸
+
+* [My Blue Bricks](https://mybluebricks.com/)
+* [Housers](https://www.housers.com/en)
