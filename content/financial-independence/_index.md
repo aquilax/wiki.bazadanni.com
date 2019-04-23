@@ -56,7 +56,7 @@ autoTitle: false
 
 #### Real Estate Lending
 
-* EstateGuru (https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
+* [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) Property backed loans
 
 ### Spain 🇪🇸
 
