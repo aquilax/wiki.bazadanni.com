@@ -19,8 +19,6 @@ autoTitle: false
 * [Wage calculator](https://statsskuld.se/en-sv/jobs/berakna-nettolon) [en] - Net salary calculator (taxation in Sweden depends on the region you live in)
 
 
-
-
 ## Investment 💰
 
 ### Sweden 🇸🇪
@@ -57,6 +55,10 @@ autoTitle: false
 #### Real Estate Lending
 
 * [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU86233) [en] Property backed loans
+
+#### Peer 2 peer
+
+* [Bondora](https://bondora.com/ref/BO1A253A2)
 
 ### Spain 🇪🇸
 
