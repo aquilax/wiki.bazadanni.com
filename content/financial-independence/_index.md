@@ -13,6 +13,8 @@ autoTitle: false
 
 * [Numbeo](https://www.numbeo.com/cost-of-living/) [en] - Cost of living around the world
 * [Our World in Data](https://ourworldindata.org/) [en] - Statistical data about the world we live in
+* [Tax summaries](http://taxsummaries.pwc.com/ID/tax-summaries-home) [en] - Tax information summaries for each country from PwC
+* [Tax guides](https://dits.deloitte.com/#TaxGuides) [en] - Tax guides from Deloitte
 
 ### Sweden 🇸🇪
 
@@ -66,8 +68,6 @@ autoTitle: false
 
 * [My Blue Bricks](https://mybluebricks.com/) [en]
 * [Housers](https://www.housers.com/en) [en]
-
-
 
 
 ## Real Estate 🏘️
