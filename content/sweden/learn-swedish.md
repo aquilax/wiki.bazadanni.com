@@ -4,6 +4,11 @@ date: 2019-04-15T02:58:26+01:00
 route: "learn-swedish"
 ---
 
+## Websites
+
+* [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
+
+
 ## Apps
 
 * [Duolingo](https://www.duolingo.com/)
@@ -34,3 +39,8 @@ route: "learn-swedish"
 * [SVTPlay](https://www.svtplay.se/)
 * [SVTBarn](https://www.svt.se/barnkanalen/)
 * [TV4Play](https://www.tv4play.se/)
+* [URPlay](https://urplay.se/)
+
+## YouTube
+
+* [SVENSKA FÖR ALLA - a crash course in Swedish](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
