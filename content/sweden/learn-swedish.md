@@ -28,3 +28,9 @@ route: "learn-swedish"
 * [Swedish Music for Learning Swedish](https://open.spotify.com/user/11101302890/playlist/3BeBGfOciz2pHhmMYGF7Qq?si=rihMdVlBQ7qgAnfFuZXHTw) [Spotify]
 * [På Svenska](https://open.spotify.com/user/lundgren8/playlist/1RmG3XnjoJjfH9sQ4oqj8l?si=CQgIVvqoQ9WVxCkdN5ScOA) [Spotify]
 * [Svenska Klassiker](https://open.spotify.com/user/sonymusicentertainment/playlist/26uqIdWqPakRB3c6Lw8I7C?si=Lo2qURh2RtGymsOG2oSdUw) [Spotify]
+
+## TV
+
+* [SVTPlay](https://www.svtplay.se/)
+* [SVTBarn](https://www.svt.se/barnkanalen/)
+* [TV4Play](https://www.tv4play.se/)
