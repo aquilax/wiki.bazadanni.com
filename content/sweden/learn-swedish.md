@@ -40,7 +40,9 @@ route: "learn-swedish"
 * [SVTBarn](https://www.svt.se/barnkanalen/)
 * [TV4Play](https://www.tv4play.se/)
 * [URPlay](https://urplay.se/)
+* [Öppet arkiv](https://www.oppetarkiv.se/)
 
 ## YouTube
 
 * [SVENSKA FÖR ALLA - a crash course in Swedish](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
+* [Mumin](https://www.youtube.com/watch?v=kTPWgnbOjMM&list=PLWPWAeHYmSDK6brweaMmXHaS1KJL57_Qk)
