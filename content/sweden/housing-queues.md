@@ -17,6 +17,9 @@ route: "housing-queues-sweden"
 
 * [Uppsala Bostadsförmedling](https://bostad.uppsala.se/)
 
-
 ## Gnesta
 * [Gnestahem](https://www.gnestahem.se/)
+
+## Norrköping
+
+* [Hyresbostäder i Norrköping](https://www.hyresbostader.se/)
