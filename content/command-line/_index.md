@@ -118,3 +118,7 @@ find . -type f | sed -n 's/..*\.//p' | sort | uniq -c
 ```bash
 inotifywait -r -m /tmp/ | while read a b file; do [[ $b == *CREATE* ]] && echo $a$file && sleep 1 && img2ascii -converter=24bit2x -width=120 "$a$file"; done
 ```
+
+### Manage python apps
+
+[pipx](https://github.com/pipxproject/pipx) - like apt for pip installable apps
