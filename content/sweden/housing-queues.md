@@ -6,20 +6,27 @@ route: "housing-queues-sweden"
 
 # Housing queues in Sweden
 
-## Stockholm
+
+## General
+
+* [HomeQ](https://www.homeq.se/)
+
+## Regional
+
+### Stockholm
 
 * [The Stockholm Housing Agency](https://bostad.stockholm.se/)
 * [Hässelby Hem](https://www.hasselbyhem.se/)
 * [Sollentunahem](https://www.sollentunahem.se/)
 * [Väsbyhem](https://www.vasbyhem.se/)
 
-## Uppsala
+### Uppsala
 
 * [Uppsala Bostadsförmedling](https://bostad.uppsala.se/)
 
-## Gnesta
+### Gnesta
 * [Gnestahem](https://www.gnestahem.se/)
 
-## Norrköping
+### Norrköping
 
 * [Hyresbostäder i Norrköping](https://www.hyresbostader.se/)
