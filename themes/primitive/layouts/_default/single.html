@@ -1,0 +1,17 @@
+{{ define "main" }}
+  {{- partial "main.html" . -}}
+  <aside id="meta">
+    <div>
+      <section>
+        <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+      </section>
+      {{ with .Params.tags }}
+      <ul id="tags">
+        {{ range . }}
+          <li> <a href="{{ "tags" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </div>
+  </aside>
+{{ end }}

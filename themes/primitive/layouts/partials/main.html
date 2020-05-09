@@ -1,0 +1,15 @@
+<section id="main">
+  {{ if ne .Params.autoTitle false -}}
+  <h1 id="title">{{ .Title }}</h1>
+  {{- end}}
+  {{ if and (gt .WordCount 400 ) (ne .Params.toc "false") }}
+  <aside class="toc">
+    {{ .TableOfContents }}
+  </aside>
+  {{ end }}
+  <div>
+    <article id="content">
+      {{ .Content }}
+    </article>
+  </div>
+</section>

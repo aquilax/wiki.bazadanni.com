@@ -6,10 +6,14 @@ route: "learn-swedish"
 
 ## Websites
 
+Website which offer Swedish lessons
+
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
 
 
 ## Apps
+
+Mobile apps for learning Swedish
 
 * [Duolingo](https://www.duolingo.com/)
 * [Memrise](https://www.memrise.com/)
@@ -20,9 +24,13 @@ route: "learn-swedish"
 
 ## Dictionaries
 
+Online Swedish dictionaries
+
 * [Lexin](https://lexin.nada.kth.se/lexin/)
 
 ## Light Swedish
+
+Light Swedish is simplified swedish for newcomers to the language
 
 * [Radio Sweden på lätt svenska](https://sverigesradio.se/radioswedenpalattsvenska) - daily summary of the news in "light Swedish". Also available as a podcast;
 * [Nyheter på lätt svenska](https://www.svtplay.se/nyheter-pa-latt-svenska) - tv summary of the news in "light Swedish" (may be constrained for sweden only)
@@ -30,11 +38,15 @@ route: "learn-swedish"
 
 ## Swedish Music
 
+playlists with Swedish music
+
 * [Swedish Music for Learning Swedish](https://open.spotify.com/user/11101302890/playlist/3BeBGfOciz2pHhmMYGF7Qq?si=rihMdVlBQ7qgAnfFuZXHTw) [Spotify]
 * [På Svenska](https://open.spotify.com/user/lundgren8/playlist/1RmG3XnjoJjfH9sQ4oqj8l?si=CQgIVvqoQ9WVxCkdN5ScOA) [Spotify]
 * [Svenska Klassiker](https://open.spotify.com/user/sonymusicentertainment/playlist/26uqIdWqPakRB3c6Lw8I7C?si=Lo2qURh2RtGymsOG2oSdUw) [Spotify]
 
 ## TV
+
+Swedish Online TV (note most of the channels are geofenced)
 
 * [SVTPlay](https://www.svtplay.se/)
 * [SVTBarn](https://www.svt.se/barnkanalen/)
@@ -43,6 +55,8 @@ route: "learn-swedish"
 * [Öppet arkiv](https://www.oppetarkiv.se/)
 
 ## YouTube
+
+YouTube channels about learning Swedish
 
 * [SVENSKA FÖR ALLA - a crash course in Swedish](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
 * [Mumin](https://www.youtube.com/watch?v=kTPWgnbOjMM&list=PLWPWAeHYmSDK6brweaMmXHaS1KJL57_Qk)

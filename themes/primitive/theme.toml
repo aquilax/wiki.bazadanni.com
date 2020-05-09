@@ -1,0 +1,12 @@
+name = "Primitive"
+license = "MIT"
+licenselink = "https://github.com/aquilax/primitive/blob/master/LICENSE"
+description = "Primitive theme for Hugo"
+homepage = "http://example.com/"
+tags = ["simple", "minimal"]
+features = []
+min_version = "0.41"
+
+[author]
+  name = "aquilax"
+  homepage = "https://www.avtobiografia.com/"

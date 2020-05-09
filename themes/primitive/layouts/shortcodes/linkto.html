@@ -1,0 +1,5 @@
+{{ $v1 := where .Site.Pages ".Params.route" "!=" nil }}
+{{ $v2 := where $v1 ".Params.route" .Params.route }}
+{{ range first 1 $v2}}
+    <a href="{{ .Params.route }}">{{ with $.Params.title }}{{.}}{{ else }}{{ .Title }}{{ end }}</a>
+{{ end }}
