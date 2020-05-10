@@ -21,6 +21,7 @@ Mobile apps for learning Swedish
 * [Drops](https://languagedrops.com/)
 * [Anki](https://ankiweb.net/about)
 * [Learn Swedish](https://learningswedish.se/)
+* [Linq](https://www.lingq.com/)
 
 ## Dictionaries
 
