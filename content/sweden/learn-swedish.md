@@ -8,8 +8,8 @@ route: "learn-swedish"
 
 Website which offer Swedish lessons
 
+* [Learning Swedish](https://learningswedish.se/)
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
-
 
 ## Apps
 
