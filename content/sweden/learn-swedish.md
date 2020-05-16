@@ -10,6 +10,7 @@ Website which offer Swedish lessons
 
 * [Learning Swedish](https://learningswedish.se/)
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
+* [Studera svenska på Internet](https://www.digitalasparet.se/)
 
 ## Apps
 
@@ -31,10 +32,10 @@ Online Swedish dictionaries
 
 ## Light Swedish
 
-Light Swedish is simplified swedish for newcomers to the language
+Light Swedish is simplified Swedish for newcomers to the language
 
 * [Radio Sweden på lätt svenska](https://sverigesradio.se/radioswedenpalattsvenska) - daily summary of the news in "light Swedish". Also available as a podcast;
-* [Nyheter på lätt svenska](https://www.svtplay.se/nyheter-pa-latt-svenska) - tv summary of the news in "light Swedish" (may be constrained for sweden only)
+* [Nyheter på lätt svenska](https://www.svtplay.se/nyheter-pa-latt-svenska) - TV summary of the news in "light Swedish" (may be constrained for Sweden only)
 * [8 Sidor](https://8sidor.se/) - summary of the news for people learning Swedish
 
 ## Swedish Music
@@ -47,7 +48,7 @@ playlists with Swedish music
 
 ## TV
 
-Swedish Online TV (note most of the channels are geofenced)
+Swedish Online TV (note most of the channels are geo-fenced)
 
 * [SVTPlay](https://www.svtplay.se/)
 * [SVTBarn](https://www.svt.se/barnkanalen/)
@@ -61,3 +62,8 @@ YouTube channels about learning Swedish
 
 * [SVENSKA FÖR ALLA - a crash course in Swedish](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
 * [Mumin](https://www.youtube.com/watch?v=kTPWgnbOjMM&list=PLWPWAeHYmSDK6brweaMmXHaS1KJL57_Qk)
+
+## Podcast
+
+* [Poddtoppen](https://poddtoppen.se/) - Swedish Podcast aggregator
+ 
