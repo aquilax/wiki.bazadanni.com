@@ -12,6 +12,17 @@ Website which offer Swedish lessons
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
 * [Studera svenska på Internet](https://www.digitalasparet.se/)
 
+## Browser extensions
+
+### Flash Cardon
+
+Turn any web page to a learning experience.
+The extension allows you to build vocabulary by keeping track of known words, and highlighting the new ones to learn.
+The whole collected vocabulary can be exported as structured text and used to create flash cards.
+
+* [Flash Cardon - Chrome](https://chrome.google.com/webstore/detail/flash-cardon/kljjkndkgodhkabbkecjlladgmeapiaf) 
+* [Flash Cardon - Firefox](https://chrome.google.com/webstore/detail/flash-cardon/kljjkndkgodhkabbkecjlladgmeapiaf) 
+
 ## Apps
 
 Mobile apps for learning Swedish
