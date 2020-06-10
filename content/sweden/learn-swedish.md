@@ -73,6 +73,8 @@ YouTube channels about learning Swedish
 
 * [SVENSKA FÖR ALLA - a crash course in Swedish](https://www.youtube.com/channel/UCDmNHpaB25AWvDO9DYZBdNQ)
 * [Mumin](https://www.youtube.com/watch?v=kTPWgnbOjMM&list=PLWPWAeHYmSDK6brweaMmXHaS1KJL57_Qk)
+* [Slow Swedish with Katrin Berndt](https://www.youtube.com/channel/UCbG0VOqIo9EqEtfE3Ru2BaQ/videos)
+* [SVT Nyheter på lätt svenska](https://www.youtube.com/channel/UCfw7spfqYyBt9I81kczWT-w)
 
 ## Podcast
 
