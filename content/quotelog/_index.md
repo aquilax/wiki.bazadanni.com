@@ -2,8 +2,9 @@
 title: "Quote log"
 date: 2020-11-17T04:58:26+01:00
 route: "quotelog"
+toc: false
 ---
-* 2020-02-22 14:09:08 Added double log to the diary maybe that would be easier to maintain than creating daily files
+
 * 2020-02-22 14:55:50 Berlin...divides writers and thinkers into two categories: hedgehogs, who view the world through the lens of a single defining idea , and foxes, who draw on a wide variety of experiences and for whom the world cannot be boiled down to a single idea . [Turtleocracy | Hacker News](https://news.ycombinator.com/item?id=22298724)
 * 2020-02-22 16:07:55 Today, workers change jobs on average every 4.2 years, according to a recent report on employee tenure from the Bureau of Labor Statistics. [Why You Should Change Jobs Every Four Years | Monster.com](https://www.monster.com/career-advice/article/dont-stay-in-same-job-more-than-four-years)
 * 2020-02-23 09:41:01 Why I work here game with your manager #idea
