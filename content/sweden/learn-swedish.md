@@ -11,6 +11,7 @@ Website which offer Swedish lessons
 * [Learning Swedish](https://learningswedish.se/)
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
 * [Studera svenska på Internet](https://www.digitalasparet.se/)
+* [Akademiens ordböcker](https://svenska.se/)
 
 ## Browser extensions
 
