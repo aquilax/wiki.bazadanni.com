@@ -11,7 +11,6 @@ Website which offer Swedish lessons
 * [Learning Swedish](https://learningswedish.se/)
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
 * [Studera svenska på Internet](https://www.digitalasparet.se/)
-* [Akademiens ordböcker](https://svenska.se/)
 
 ## Browser extensions
 
@@ -40,6 +39,7 @@ Mobile apps for learning Swedish
 
 Online Swedish dictionaries
 
+* [Akademiens ordböcker](https://svenska.se/)
 * [Lexin](https://lexin.nada.kth.se/lexin/)
 
 ## Light Swedish
@@ -81,3 +81,7 @@ YouTube channels about learning Swedish
 
 * [Poddtoppen](https://poddtoppen.se/) - Swedish Podcast aggregator
  
+
+## Communities
+
+* [/r/Svenska](https://www.reddit.com/r/Svenska/) Subreddit for people learning Swedish
