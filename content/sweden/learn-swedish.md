@@ -11,6 +11,7 @@ Website which offer Swedish lessons
 * [Learning Swedish](https://learningswedish.se/)
 * [Swedish for All/Svenska för alla](https://swedish-for-all.se/)
 * [Studera svenska på Internet](https://www.digitalasparet.se/)
+* [Swedish Word of the Day](https://www.transparent.com/word-of-the-day/today/swedish.html) - email newsletter that sends new word every day to your mailbox.
 
 ## Browser extensions
 
