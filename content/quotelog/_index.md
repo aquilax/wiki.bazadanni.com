@@ -163,3 +163,4 @@ Terry Pratchett, Feet of Clay [Geography is only physics slowed down and with a.
 * 2021-03-19 10:03:53 I see solitude not as an escape from the world but as an escape from a peopled world... [All by Myself | Hacker News](https://news.ycombinator.com/item?id=26312523)
 * 2021-03-29 05:16:06 when your work is done, forget it [Ask HN: Those who quit their jobs to travel the world, how did it go? | Hacker News](https://news.ycombinator.com/item?id=26407560)
 * 2021-04-12 17:51:20 A relationship is planting roots in someone's heart. -I'm not a Robot [KDrama lines on Twitter: "A relationship is planting roots in someone's heart. -I'm not a Robot" / Twitter](https://twitter.com/kdrama_lines/status/1009238868204240896)
+* 2021-05-05 13:32:37 1 OBSERVER, 58 IDENTIFIERS, 84 SPECIES, 129 OBSERVATIONS --The World
