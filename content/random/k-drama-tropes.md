@@ -1,5 +1,5 @@
 ---
-title: "K-Drama tropes"
+title: "K-Drama staples"
 date: 2021-05-06T02:58:26+01:00
 route: "k-drama-tropes"
 ---
@@ -27,3 +27,13 @@ route: "k-drama-tropes"
 * Amazing OST
 * Shamans
 * Onscreen footnotes
+* CGI blush
+* Happy ending
+* First snow
+* Envelopes with money or resignation letters
+* Wrist grab
+* Tapping on the back
+* Claw cranes
+* Helping people pull loaded carts uphill
+* Split screen emotions
+* Epilogues
