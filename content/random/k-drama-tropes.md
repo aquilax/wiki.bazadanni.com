@@ -37,3 +37,4 @@ route: "k-drama-tropes"
 * Helping people pull loaded carts uphill
 * Split screen emotions
 * Epilogues
+* The accidental first kiss
