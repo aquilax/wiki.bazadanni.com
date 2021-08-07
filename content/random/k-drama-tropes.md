@@ -38,3 +38,4 @@ route: "k-drama-tropes"
 * Split screen emotions
 * Epilogues
 * The accidental first kiss
+* Tying shoelaces
