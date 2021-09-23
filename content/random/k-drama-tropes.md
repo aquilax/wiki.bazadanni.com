@@ -39,3 +39,8 @@ route: "k-drama-tropes"
 * Epilogues
 * The accidental first kiss
 * Tying shoelaces
+* Applying ointment
+* Pain relief patches
+* "Driver, please hurry"
+* A truck causing an accident
+* "Why is it so hot here"
