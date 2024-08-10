@@ -9,9 +9,20 @@ Can use [this tool](https://www.ctpax-x.org/index.php?goto=files&show=104&lang=e
 The archive incudes the c source which compiles on Linux too.
 
 ```shell
+$ LC_ALL=C ./trid JACK.VXL
+TrID/32 - File Identifier v2.24 - (C) 2003-16 By M.Pontello
+Definitions found:  18084
+Analyzing...
+
+Collecting data from file: JACK.VXL
+100.0% (.GXL/GX) Genus Graphics Library archive (50000/1)
+
 $ unzip unpcxgx.zip
+
 $ gcc unpcxgx.c -o unpcxgx
+
 $ ./unpcxgx JACK.VXL
+
 PCX/GX Library unpacker v1.3
 
 GX Library format detected
