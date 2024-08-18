@@ -49,12 +49,18 @@ JACK1.VGX: PCX ver. 3.0 image data bounding box [30, 10] - [442, 337], 8-bit col
 Player configuration is in plain text format in file names [PLAYER_NAME].TXT in the game root directory:
 
 ```text
-LINE TYPE    DESCRIPTION
-1    number  TBD (brain ?)
-2    number  number of states(images) - 1
-3-11 text    positional name of the item the player looses (filled with SKIN if there are no images for that state)
-12-  text    flirts used by the player when they win (first half) or loose (second half)
+LINE TYPE   RANGE DESCRIPTION
+1    number 1-5   TBD (brain, player skill level ?)
+2    number 0-9   number of states(images) - 1
+3-11 text   -     positional name of the item the player looses (filled with SKIN if there are no images for that state)
+12-  text   -     flirts used by the player when they win (first half) or loose (second half)
 ```
+
+## Image constraints
+
+Player select thumbnail: 121x91 px, 256 colors, fixed palette
+GamePlay big panel: 413x328 px, 256 colors, fixed palette
+GamePlay small panel: 167x133 px, 256 colors, fixed palette
 
 ## Files
 
@@ -541,5 +547,6 @@ Main executable
 
 ### TRM15.GFT
 
-GEM GDOS font font used in the game
+GEM GDOS font font used in the game.
 
+Can be previewed in https://recoil.sourceforge.net/web.html. Just rename the file to TRM15.FNT
