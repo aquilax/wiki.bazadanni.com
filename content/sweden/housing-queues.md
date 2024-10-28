@@ -19,12 +19,17 @@ route: "housing-queues-sweden"
 * [Hässelby Hem](https://www.hasselbyhem.se/)
 * [Sollentunahem](https://www.sollentunahem.se/)
 * [Väsbyhem](https://www.vasbyhem.se/)
+* [Wåhlin Fastigheter](https://wahlinfastigheter.se/)
+* [Wallenstam](https://www.wallenstam.se/)
+* [Hemvist Förvaltning](https://hemvist-minasidor.se/)
+* [ByggVesta](https://www.byggvesta.se/)
 
 #### Uppsala
 
 * [Uppsala Bostadsförmedling](https://bostad.uppsala.se/)
 
 #### Gnesta
+
 * [Gnestahem](https://www.gnestahem.se/)
 
 #### Norrköping
