@@ -315,3 +315,10 @@ Copy
 * 2023-12-29 15:15:42 In society in general there is only a weak correlation between skill and reward in lots of places and the variance in outcomes is very high and is dominated by factors like the socioeconomic background of your parents, race, gender etc that you don’t control. [How to Become a Great Software Engineer | Hacker News](https://news.ycombinator.com/item?id=38742679)
 * 2024-01-15 17:51:17 We derive pleasure from anticipation, so ensure there are a number of things to look forward to. [If Money Doesn't Make You Happy Then You Probably Aren't Spending It Right [pdf] | Hacker News](https://news.ycombinator.com/item?id=38880624)
 * 2024-04-20 15:11:27 tt0124180
+* 2024-12-26 08:00:31 we talk about programming like it is about writing code, but the code ends up being less important than the architecture, and the architecture ends up being less important than social issues. [The success and failure of Ninja (2020) | Hacker News](https://news.ycombinator.com/item?id=42268310)
+* 2025-01-05 08:00:39 “We are...so far removed from the realities of production and work that we inhabit a dream world of artificial stimuli and televised experience.” 📀💩 Добре дошли в пост-дигиталното бъдеще
+* 2025-02-23 08:39:54 You either know, or you don't. Neither is fatal. [triapul.cz](https://triapul.cz/about.html)
+* 2025-07-19 07:33:05 Thank you for the questions that made me think
+* 2025-09-18 10:35:30 Because here’s the ugly truth: service is dead. The only thing still alive is the endless, humiliating upsell and self-service. [Every industry is an overcrowded airport lounge now | Hacker News](https://news.ycombinator.com/item?id=45057781)
+* 2025-09-19 08:37:51 Here’s one possible hobby: 1. Take something you don’t like. 2. Try to like it. [You can try to like stuff](https://dynomight.net/liking/)
+* 2025-10-04 08:59:33 1) Negativity bias increases clicks. 2) Extreme opinions increase sharing. 3) Out-group animosity increases engagement. 4) Moral-emotional language goes viral. [All the sad young terminally online men | Hacker News](https://news.ycombinator.com/item?id=45419841)

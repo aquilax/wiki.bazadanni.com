@@ -6,7 +6,6 @@ route: "housing-queues-sweden"
 
 ## Housing queues
 
-
 ### General
 
 * [HomeQ](https://www.homeq.se/)
