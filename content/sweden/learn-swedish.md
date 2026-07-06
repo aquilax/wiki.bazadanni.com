@@ -86,3 +86,10 @@ YouTube channels about learning Swedish
 ## Communities
 
 * [/r/Svenska](https://www.reddit.com/r/Svenska/) Subreddit for people learning Swedish
+
+## Online Word Games
+
+* [Ba Ba Dum](https://babadum.com/)
+* [Wordle SV](https://wordle.global/sv)
+* [Ordfas](https://ordfras.se/dagens/)
+
