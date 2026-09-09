@@ -322,3 +322,4 @@ Copy
 * 2025-09-18 10:35:30 Because here’s the ugly truth: service is dead. The only thing still alive is the endless, humiliating upsell and self-service. [Every industry is an overcrowded airport lounge now | Hacker News](https://news.ycombinator.com/item?id=45057781)
 * 2025-09-19 08:37:51 Here’s one possible hobby: 1. Take something you don’t like. 2. Try to like it. [You can try to like stuff](https://dynomight.net/liking/)
 * 2025-10-04 08:59:33 1) Negativity bias increases clicks. 2) Extreme opinions increase sharing. 3) Out-group animosity increases engagement. 4) Moral-emotional language goes viral. [All the sad young terminally online men | Hacker News](https://news.ycombinator.com/item?id=45419841)
+* 2025-12-21 20:24:17 if you want to get more out of something put more into something
