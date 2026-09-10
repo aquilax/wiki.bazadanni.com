@@ -1,6 +1,6 @@
 ---
 title: "AIVR Girlfriend"
-date: 2026-09-19T02:58:26+01:00
+date: 2026-09-10T02:58:26+01:00
 route: "aivr-girlfriend"
 ---
 
